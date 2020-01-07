@@ -1,4 +1,17 @@
-# 100 Days Of Code - Log
+# 100 Days of Code – Log
+
+### Day 0: November 20, 2018 (Example 1)
+
+**Today's Progress**: Settled on a design
+
+**Thoughts:** To be honest this is really day two and I spent more time than I'd like to admit being critical of my designs, I've realized that as important as design may be to me that it's of greater importance to actually get code written than to spend hours on how it should look.
+
+**Link to work:** [Tribute Page](https://flaskfullofcoffee.github.io/tributeProject/)
+
+
+
+
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +40,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
